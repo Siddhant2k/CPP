@@ -1,0 +1,1 @@
+//create Armstrong number code.
